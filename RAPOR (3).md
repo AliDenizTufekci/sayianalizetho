@@ -183,15 +183,142 @@ if (sayı>0) 40'dan , else  48 'den devam et.
 
 | No | Girilen sayılar | Beklenen sonuç | Programın sonucu | Doğru mu? |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-
+| 1 |5,0 |5:sayi asaldir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.
+0:pozitif sayıların sayısı: 1
+negatif sayilarin sayisi : 0
+tek sayilarin sayisi 1
+cift sayilarin sayisi : 0
+En buyuk sayi: 5
+En kucuk sayi: 5
+En buyuk ve en kucuk sayilarin farki : 0
+Girilen sayilarin toplami : 5
+Girilen sayilarin ortalamasi : 5
+Girilen pozitif sayilarin ortalamasi : 5
+Girilen sayilardan asal olanlarin sayisi : 1 |5:sayi asaldir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.
+pozitif sayıların sayısı: 1
+negatif sayilarin sayisi : 0
+tek sayilarin sayisi 1
+cift sayilarin sayisi : 0
+En buyuk sayi: 5
+En kucuk sayi: 5
+En buyuk ve en kucuk sayilarin farki : 0
+Girilen sayilarin toplami : 5
+Girilen sayilarin ortalamasi : 5
+Girilen pozitif sayilarin ortalamasi : 5
+Girilen sayilardan asal olanlarin sayisi : 1 |Evet |
+| 2 |0 |Girdiginiz ilk sayi 0 olursa programin bir anlami kalmaz cunku daha isleyebilecegi uygun bir sayi almadan kapanmis olur. 0 Girdiginiz icin program herhangi bir istattistik vermeden  kapanacak. |Girdiginiz ilk sayi 0 olursa programin bir anlami kalmaz cunku daha isleyebilecegi uygun bir sayi almadan kapanmis olur. 0 Girdiginiz icin program herhangi bir istattistik vermeden  kapanacak. |Evet |
+| 3 |6,3 |6:sayi asal degildir.
+sayi bir mukemmel sayidir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.3:sayi asaldir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  1 basamaklidir. |6:sayi asal degildir.
+sayi bir mukemmel sayidir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.3:sayi asaldir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  1 basamaklidir. |Evet |
+| 4 |5,-8,6 ,0|5:sayi asaldir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.-8:Sayi asal degildir.
+Sayi pozitif olmadigi icin mukemmel degildir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.6:sayi asal degildir.
+sayi bir mukemmel sayidir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.0:program kapatiliyor.
+pozitif sayıların sayısı: 2
+negatif sayilarin sayisi : 1
+tek sayilarin sayisi 1
+cift sayilarin sayisi : 2
+En buyuk sayi: 6
+En kucuk sayi: -8
+En buyuk ve en kucuk sayilarin farki : 14
+Girilen sayilarin toplami : 3
+Girilen sayilarin ortalamasi : 1
+Girilen pozitif sayilarin ortalamasi : 5
+Girilen sayilardan asal olanlarin sayisi : 1 |5:sayi asaldir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.-8:Sayi asal degildir.
+Sayi pozitif olmadigi icin mukemmel degildir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.6:sayi asal degildir.
+sayi bir mukemmel sayidir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.0:program kapatiliyor.
+pozitif sayıların sayısı: 2
+negatif sayilarin sayisi : 1
+tek sayilarin sayisi 1
+cift sayilarin sayisi : 2
+En buyuk sayi: 6
+En kucuk sayi: -8
+En buyuk ve en kucuk sayilarin farki : 14
+Girilen sayilarin toplami : 3
+Girilen sayilarin ortalamasi : 1
+Girilen pozitif sayilarin ortalamasi : 5
+Girilen sayilardan asal olanlarin sayisi : 1  |Evet |
+| 5 |4 |sayi asal degildir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.
+ |sayi asal degildir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.
+ |Evet |
+| 6 |1,0 |1:
+sayi asaldir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.0:program kapatiliyor.
+pozitif sayıların sayısı: 1
+negatif sayilarin sayisi : 0
+tek sayilarin sayisi 1
+cift sayilarin sayisi : 0
+En buyuk sayi: 1
+En kucuk sayi: 1
+En buyuk ve en kucuk sayilarin farki : 0
+Girilen sayilarin toplami : 1
+Girilen sayilarin ortalamasi : 1
+Girilen pozitif sayilarin ortalamasi : 1
+Girilen sayilardan asal olanlarin sayisi : 1
+ |1:
+sayi asaldir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  1 basamaklidir.
+sayi girin.0:program kapatiliyor.
+pozitif sayıların sayısı: 1
+negatif sayilarin sayisi : 0
+tek sayilarin sayisi 1
+cift sayilarin sayisi : 0
+En buyuk sayi: 1
+En kucuk sayi: 1
+En buyuk ve en kucuk sayilarin farki : 0
+Girilen sayilarin toplami : 1
+Girilen sayilarin ortalamasi : 1
+Girilen pozitif sayilarin ortalamasi : 1
+Girilen sayilardan asal olanlarin sayisi : 1 |Evet |
+| 7 |657 |sayi asal degildir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  3 basamaklidir.
+sayi girin. |sayi asal degildir.
+sayi bir mukemmel sayi degildir.
+Girdiginiz sayi  3 basamaklidir.
+sayi girin. | Evet|
+| 8 |-657 |Sayi asal degildir.
+Sayi pozitif olmadigi icin mukemmel degildir.
+Girdiginiz sayi  3 basamaklidir.
+sayi girin.
+ |Command execution failed. |HAYIR |
+//*program, eğer ilk girilen sayı negatif olursa hata veriyor ama bunu bi' türlü düzeltemedim.//*
 ## 6. Ek Görevler (Opsiyonel)
-<!-- Max-min farkı, pozitiflerin ortalaması, asal sayı adedi için örnek çıktılar. -->
+<-- Ek görevleri .hem program kodlarını yazarken hem de bo dosyayı oluşturuyorken diğerleri ile bir değerlendirdim. O sebeple az önce(yukarıda) , testleri ve sonuçlarını paylaşırken ,en sonunda "0" girilmiş tüm örneklerde ek görevlerin çıktılarını örnekledim.-->
 
