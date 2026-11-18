@@ -4,7 +4,7 @@
 **Numara:722**
 
 ## 1. Algoritma Açıklaması
-<!-- Program ,kişiden durmadan sayılar isteyecek ve her defasında bu sayılarla işlemler yapıp (toplam almak, pozitif-negatif-sıfır ayırmak vb.) bazılarını her defasında kullanıcıya gösterecek, bazılarını ise bazı değişkenlerde biriktirip işlemlerin sonunda program bitince gösterecek şekilde çalışmaktadır. Kullanıcının sayı girme eylemini bitirip toplu sonuçları almak adına (biriktirip en son gösterilenler) "0"a basması gerekmektedir.-->
+<-- Program ,kişiden durmadan sayılar isteyecek ve her defasında bu sayılarla işlemler yapıp (toplam almak, pozitif-negatif-sıfır ayırmak vb.) bazılarını her defasında kullanıcıya gösterecek, bazılarını ise bazı değişkenlerde biriktirip işlemlerin sonunda program bitince gösterecek şekilde çalışmaktadır. Kullanıcının sayı girme eylemini bitirip toplu sonuçları almak adına (biriktirip en son gösterilenler) "0"a basması gerekmektedir.-->
 
 
 ## 2. Girdi - İşlem - Çıktı
@@ -55,9 +55,89 @@ işlemlerini her sayı girişinde yapar ve son 3 'ünü her sayı için ayrı ay
 ## 3. Sözde Kod (Pseudocode)
 
 ```
-1.
-2.
-3.
+1.output:"Az sonra sizden devamli olarak bir sayi girmenizi isteyecek bir program ile karsilasacaksiniz.Program girdiginiz sayilari kullanarak bazi analizler yapacak ve en sonunda size sonuclari verecek. Eger programin sayi alimini durdurmak isterseniz '0' tusuna basmaniz gerekmektedir. "
+2.Tanımlama integer'lar: int sayısayısı,pozitifort,tplm,pozitiflerinsayısı,negatiflerinsayısı,teklerinsayısı,çiftlerinsayısıbüyüksayı,küçüksayı,asalsayılarınsayısı, sayı , sayısayısı, ort , pozitiftoplam.
+3.do-while döngüsü başlatılır. Bu sayede bir işlemin her defasında uygulanması ve belli bir koşula göre uygulandıktan sonra test edilmesi sağlanır.do{
+4.işlem:
+5.
+6.
+7.
+8.
+9
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 ## 4. Akış Şeması
