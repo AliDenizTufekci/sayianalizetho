@@ -1,7 +1,7 @@
 # Ödev: Akıllı Sayı Analiz Sistemi
 
 > Bu bir ödev şablonudur. Ödevi **yapay zekâ kullanmadan**, kendi başınıza yapmanız beklenir.
-
+*Ödevi hazırlarken rapor.md , flowgorythm şeması ve java kodlarında bazı yerlerde , aynı şeyleri tekrar tekrar yazmamak adına aynı ödevler için daha önce yazdığım yazılardan bazılarını kopyala-yapıştır yaptım ancak herhangi bir YZ desteği kullanmadım.*
 ## Repo Yapısı
 
 ```
