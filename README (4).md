@@ -2,6 +2,7 @@
 
 > Bu bir ödev şablonudur. Ödevi **yapay zekâ kullanmadan**, kendi başınıza yapmanız beklenir.
 *Ödevi hazırlarken rapor.md , flowgorythm şeması , meydan'daki ödev şablonu ve java kodlarında bazı yerlerde , aynı şeyleri tekrar tekrar yazmamak adına aynı ödevler için daha önce yazdığım yazılardan bazılarını kopyala-yapıştır yaptım ancak herhangi bir YZ desteği kullanmadım.*
+*flowgorythm dosyası direkt bağlantıya tıklayınca gözükmeyebilir o yüzden onu incelemek için repository ana sayfasına gelip "sayianalizflow" başlıklı dosyaya tıklayın.*
 ## Repo Yapısı
 
 ```
